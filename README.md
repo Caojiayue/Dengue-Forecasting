@@ -1,2 +1,2 @@
 # Dengue-Forecasting
-Inferring latent mosquito infection dynamics for dengue forecasting using physics-informed neural networks, GRU, RNN and LSTM
+Reconstructing latent mosquito infection dynamics with physics-informed neural networks for dengue forecasting
